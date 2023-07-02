@@ -1,0 +1,73 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "@boldreports/javascript-reporting-controls": "^4.2.87",
+    "@reduxjs/toolkit": "^1.9.3",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "@types/pdfmake": "^0.2.2",
+    "antd": "^5.4.0",
+    "autoprefixer": "^9.8.6",
+    "axios": "^1.3.5",
+    "bv-react-data-report": "^2.0.1",
+    "file-saver": "^2.0.5",
+    "html2canvas": "^1.4.1",
+    "i18n-react": "^0.7.0",
+    "j": "^1.0.0",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.28",
+    "lodash": "^4.17.21",
+    "pdfmake": "^0.2.7",
+    "postcss": "^8.4.23",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-google-recaptcha": "^2.1.0",
+    "react-helmet": "^6.1.0",
+    "react-highlight-words": "^0.20.0",
+    "react-paginate": "^8.2.0",
+    "react-pdf": "^7.0.2",
+    "react-redux": "^8.0.5",
+    "react-report-builder": "^4.0.20",
+    "react-router-dom": "^6.11.1",
+    "react-scripts": "^5.0.1",
+    "react-scroll": "^1.8.4",
+    "react-slick": "^0.28.1",
+    "react-to-print": "^2.14.12",
+    "react-toastify": "^9.1.3",
+    "react-tooltip": "^5.10.5",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.1",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
